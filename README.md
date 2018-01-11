@@ -1,3 +1,5 @@
+This project is associated with REACT REDUX FIREBASE BLOG APP WITH AUTHENTICATION series in <a href="https://www.youtube.com/watch?v=8lwHTR1ER-Q&list=PL7gBJKednu-rZiR5xqJial4JdwOE2CwPB" target="_blank">youtube</a>.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
